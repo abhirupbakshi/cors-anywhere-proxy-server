@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  },
+  "name": "cors-anywhere-proxy-server",
+  "description": "A simple cors-anywhere proxy server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
